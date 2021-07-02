@@ -1,0 +1,61 @@
+header{
+    background-color: black;
+    border: solid black 1px;
+    padding: 40px;
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Concert One', cursive;
+    border-radius: 3px;
+    position: sticky;
+    top: 0;
+    
+}
+
+.naveg{
+    color: white;
+    margin-left: 10px;
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 4px;
+    
+}
+
+.material{
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Concert One', cursive;
+}
+
+.banner{
+    width: 80%;
+    margin-left: 10%;
+    border: solid 1px;
+
+}
+
+footer{
+    border: solid gray 1px;
+    text-align: center;
+    background-color: grey;
+    padding: 25px;
+    font-family: 'Concert One', cursive;
+}
+
+
+
+.whats{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 50px;
+    
+}
+
+p{
+    text-align: justify;
+}
+
+.rodape{
+    text-align: center;
+}
